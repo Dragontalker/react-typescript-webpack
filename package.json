@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Dragontalker/react-typescript-webpack/issues"
   },
-  "homepage": "https://github.com/Dragontalker/react-typescript-webpack#readme"
+  "homepage": "https://github.com/Dragontalker/react-typescript-webpack#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
